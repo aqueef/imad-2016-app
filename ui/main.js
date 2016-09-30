@@ -19,8 +19,7 @@ request.open('GET', 'http://aqueef.imad.hasura-app.io/counter', true);
 request.send(null);
 };
 // Submit name
-var nameInput=document.getElementById('name');
-var name=nameInput.value;
+
 var submit=document.getElementById('submit_btn');
 submit.onclick=function () {
      var request= new XMLHttpRequest();
@@ -40,6 +39,8 @@ ul.innerHTML=list;
 }
 }
 };
+var nameInput=document.getElementById('name');
+var name=nameInput.value;
 request.open('GET', 'http://aqueef.imad.hasura-app.io/sbmit-name?name='+ name, true);
 request.send(null);
 };
