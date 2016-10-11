@@ -41,6 +41,6 @@ ul.innerHTML=list;
 };
 var nameInput=document.getElementById('name');
 var name=nameInput.value;
-request.open('GET', 'http://aqueef.imad.hasura-app.io/sbmit-name?name='+ name, true);
+request.open('GET', 'http://aqueef.imad.hasura-app.io/submit-name?name='+ name, true);
 request.send(null);
 };
