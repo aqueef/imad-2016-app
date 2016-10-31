@@ -31,7 +31,10 @@ h1
 {
     background-color:red;
 }
-
+body
+{
+    background-color:light red;
+}
 
 .topnav {
     list-style-type: none;
