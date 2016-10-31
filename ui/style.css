@@ -22,8 +22,12 @@ body {
 
 
  .head {
-                width:1350px;
-                background-color:red;
+              background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+
+    position: relative;
+    width: 100%;
             }
 
 
