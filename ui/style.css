@@ -67,7 +67,7 @@ li a:hover {
 .boxed
 {
    padding:20px;
-   
+   display:block;
     float:right;
     background-color:#006400;
     color:white;
