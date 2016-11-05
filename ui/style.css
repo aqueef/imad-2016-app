@@ -67,11 +67,7 @@ li a:hover {
 .boxed
 {
     font-family:"Times New Roman", Times, serif;;
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
-  
+   padding:20;
    display:block;
     float:right;
     background-color:#006400;
