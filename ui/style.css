@@ -66,6 +66,7 @@ li a:hover {
 }
 .boxed
 {
+    text-align:centre;
    padding:20px;
    display:block;
     float:right;
