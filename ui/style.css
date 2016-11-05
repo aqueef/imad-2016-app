@@ -69,7 +69,7 @@ li a:hover {
     font-family:"Times New Roman", Times, serif;;
   
    display:block;
-    float:right;
+    float:left;
     background-color:#006400;
     color:white;
    width: 320px;
