@@ -62,8 +62,15 @@ li a {
 }
 
 li a:hover {
-    background-color: #111;
+    background-color:#008000 ;
 }
-
-
-
+.boxed
+{
+    float:right;
+    background-color:#006400;
+    color:white;
+    max-height:300px;
+    max-width:300px;
+    border:1px solid green;
+}
+}
