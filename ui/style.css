@@ -66,6 +66,7 @@ li a:hover {
 }
 .boxed
 {
+   padding:20px;
    
     float:right;
     background-color:#006400;
@@ -78,6 +79,6 @@ li a:hover {
 p
 {
     font-family:Courier New Lucida Console;
-text-align:centre;    
+
 
 }
