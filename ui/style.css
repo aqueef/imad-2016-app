@@ -72,7 +72,7 @@ li a:hover {
     float:right;
     background-color:#006400;
     color:white;
-   
+   max-width:20;
 }
 
 p
